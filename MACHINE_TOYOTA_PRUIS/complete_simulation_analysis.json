@@ -1,0 +1,19 @@
+{
+  "basic_info": {
+    "name": "FEMM_simulation",
+    "desc": ""
+  },
+  "operating_point": {
+    "rotor_speed": 3000.0,
+    "electrical_frequency": 200.0
+  },
+  "flux_density": {
+    "available": false
+  },
+  "torque": {
+    "available": false
+  },
+  "energy": {
+    "available": false
+  }
+}

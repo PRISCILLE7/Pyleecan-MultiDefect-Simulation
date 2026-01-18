@@ -1,0 +1,11 @@
+RAPPORT D'ANALYSE DES MACHINES NON SIMULÉES
+==================================================
+
+Nombre de machines analysées: 84
+Nombre de machines améliorées: 84
+Taux de succès: 100.0%
+
+DÉTAIL DES AMÉLIORATIONS:
+------------------------------
+
+1. Toyota_Prius_defect_01_H10W22RH81RW318N10

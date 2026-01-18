@@ -1,0 +1,429 @@
+{
+  "total_machines": 84,
+  "successful_simulations": 0,
+  "failed_simulations": 84,
+  "success_rate": 0.0,
+  "successful_machines": [],
+  "failed_machines": [
+    {
+      "name": "Toyota_Prius_defect_01_H10W22RH81RW318N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_02_H10W22RH81RW318N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_03_H9W22RH81RW318N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_04_H10W22RH84RW300N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_05_H10W22RH84RW300N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_06_H9W22RH84RW300N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_07_H9W16RH119RW327N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_08_H9W16RH119RW327N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_09_H9W16RH119RW327N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_10_H10W16RH84RW450N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_11_H10W23RH88RW304N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_12_H9W23RH88RW304N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_13_H10W23RH88RW304N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_14_H10W23RH86RW326N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_15_H10W23RH86RW326N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_16_H10W22RH81RW301N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_17_H10W22RH81RW301N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_18_H10W22RH81RW301N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_19_H11W22RH81RW311N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_20_H11W22RH81RW311N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_21_H11W22RH81RW311N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_22_H9W23RH115RW308N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_23_H10W23RH115RW308N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_24_H10W23RH115RW308N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_25_H11W23RH86RW304N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_26_H11W23RH86RW304N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_27_H11W23RH86RW304N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_28_H11W23RH116RW302N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_29_H11W23RH116RW302N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_30_H11W23RH116RW302N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_31_H10W15RH115RW312N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_32_H10W15RH115RW312N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_33_H10W15RH115RW312N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_34_H9W22RH115RW323N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_35_H10W22RH115RW323N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_36_H10W22RH115RW323N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_37_H9W22RH80RW302N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_38_H10W22RH80RW302N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_39_H10W22RH80RW302N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_40_H11W22RH119RW323N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_41_H11W22RH119RW323N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_42_H11W22RH119RW323N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_43_H11W15RH85RW314N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_44_H11W15RH85RW314N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_45_H11W15RH85RW314N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_46_H10W15RH86RW316N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_47_H10W15RH86RW316N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_48_H9W15RH86RW316N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_49_H10W15RH116RW312N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_50_H9W15RH116RW312N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_51_H9W15RH116RW312N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_52_H9W23RH116RW325N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_53_H9W23RH116RW325N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_54_H9W23RH116RW325N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_55_H11W16RH84RW326N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_56_H11W16RH84RW326N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_57_H11W16RH84RW326N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_58_H9W16RH115RW320N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_59_H10W16RH115RW320N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_60_H10W16RH115RW320N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_61_H10W15RH88RW317N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_62_H10W15RH88RW317N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_63_H10W15RH88RW317N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_64_H10W15RH82RW454N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_65_H10W15RH82RW454N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_66_H9W16RH115RW302N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_67_H9W16RH115RW302N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_68_H9W16RH115RW302N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_69_H11W16RH116RW314N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_70_H11W16RH116RW314N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_71_H11W16RH116RW314N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_72_H10W22RH87RW454N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_73_H11W16RH119RW308N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_74_H11W16RH119RW308N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_75_H11W16RH119RW308N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_76_H9W16RH83RW325N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_77_H10W16RH83RW325N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_78_H9W16RH83RW325N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_79_H9W22RH80RW305N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_80_H10W22RH80RW305N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_81_H9W22RH80RW305N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_82_H10W16RH80RW315N10",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_83_H9W16RH80RW315N11",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    },
+    {
+      "name": "Toyota_Prius_defect_84_H10W16RH80RW315N7",
+      "reason": "Paramètres invalides",
+      "error": "Paramètres hors plage acceptable"
+    }
+  ]
+}

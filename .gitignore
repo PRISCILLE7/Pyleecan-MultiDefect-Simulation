@@ -1,0 +1,59 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===============================
+# Jupyter
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# Temporary / logs
+# ===============================
+*.tmp
+*.log
+debug_tmp/
+*_tmp/
+
+# ===============================
+# OS files
+# ===============================
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.lnk
+
+# ===============================
+# Data / simulation outputs
+# ===============================
+*.csv
+*.npz
+*.npy
+*.mat
+*.zip
+
+results/
+outputs/
+out/
+export/
+
+# ===============================
+# Large simulation directories (DO NOT TRACK)
+# ===============================
+machines_custom_batch_ntcoil/Machine_healthy/
+machines_custom_batch_ntcoil/Machine_Defect/
+
+MACHINE_TESLA_MODEL_3/Tesla_Model3_Dataset_Cohérent_100/
+MACHINE_TESLA_MODEL_3/Tesla_Model3_modif_Cohérent_100/
+MACHINE_TESLA_MODEL_3/Tesla_Model3_Demagnetisation_Severe/
+MACHINE_TESLA_MODEL_3/Tesla_Model3_Entrefer_Variations_Uniques/
+
+Tesla_Model3_Entrefer_Variations_Uniques/simulation_variation_entrefer/
+
+# ===============================
+# Articles / documents
+# ===============================
+article-slf/
