@@ -20,33 +20,35 @@ The project combines **electromagnetic simulation**, **fault modeling**, and **d
 ---
 
 ##  Project Structure
-`
-Tutorials/
-├── 01_tuto_Machine.ipynb                # Main tutorial notebook
-│
-├── MACHINE_TESLA_MODEL_3/               # Tesla Model 3 analysis & generation
-│   ├── Analyse_de_la_machine.ipynb
-│   ├── machine_generator_tesla.ipynb
-│   ├── Machines_defaut_usinages.ipynb
-│   └── (large datasets excluded from GitHub)
-│
-├── MACHINE_TOYOTA_PRUIS/                # Toyota Prius machine studies
-│   ├── 01_tuto_Machine.ipynb
-│   ├── 02_tuto_Simulation_FEMM.ipynb
-│   ├── machine_generator_toyota_pruis.ipynb
-│   └── Winding_Failure_Simulation.ipynb
-│
-├── machines_custom_batch_ntcoil/        # Batch simulations (code only)
-│   └── code/
-│
-├── article-slf/                         # Publication-related notebooks
-│
-├── serie/                               # CSV exports (excluded from GitHub)
-│
-├── thesis/                              # Master’s thesis (PDF)
-│
-└── README.md
-`
+
+    ```text
+    Tutorials/
+    ├── 01_tuto_Machine.ipynb                 # Main tutorial notebook
+    │
+    ├── MACHINE_TESLA_MODEL_3/                # Tesla Model 3 analysis & generation
+    │   ├── Analyse_de_la_machine.ipynb
+    │   ├── machine_generator_tesla.ipynb
+    │   ├── Machines_defaut_usinages.ipynb
+    │   └── (large datasets excluded from GitHub)
+    │
+    ├── MACHINE_TOYOTA_PRUIS/                 # Toyota Prius machine studies
+    │   ├── 01_tuto_Machine.ipynb
+    │   ├── 02_tuto_Simulation_FEMM.ipynb
+    │   ├── machine_generator_toyota_pruis.ipynb
+    │   └── Winding_Failure_Simulation.ipynb
+    │
+    ├── machines_custom_batch_ntcoil/         # Batch simulations
+    │   └── code/                             # Source code only
+    │
+    ├── article-slf/                          # Publication-related notebooks
+    │
+    ├── serie/                                # CSV exports (excluded from GitHub)
+    │
+    ├── thesis/                               # Master’s thesis (PDF)
+    │
+    └── README.md
+
+
 ##  Important Note
 
 Large datasets, simulation outputs, and generated results are **not tracked on GitHub** due to their size.  
