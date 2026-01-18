@@ -74,7 +74,10 @@ They must be generated **locally** using the provided scripts and notebooks.
 - Interior Permanent Magnet Synchronous Machine  
 - Machining tolerances and geometrical defects  
 - Air-gap variations (±5%, ±10%)  
-- Magnet demagnetization scenarios  
+- Magnet demagnetization scenarios
+   
+<img width="427" height="413" alt="image" src="https://github.com/user-attachments/assets/c206ba0d-a1a4-4bd5-9543-829ff53128fa" />
+
 
 ### Toyota Prius 2004 – IPMSM
 - Reference traction machine  
