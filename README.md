@@ -40,8 +40,6 @@ The project combines **electromagnetic simulation**, **fault modeling**, and **d
     ├── machines_custom_batch_ntcoil/         # Batch simulations
     │   └── code/                             # Source code only
     │
-    ├── article-slf/                          # Publication-related notebooks
-    │
     ├── serie/                                # CSV exports (excluded from GitHub)
     │
     ├── thesis/                               # Master’s thesis (PDF)
