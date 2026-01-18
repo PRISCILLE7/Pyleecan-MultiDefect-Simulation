@@ -1,4 +1,4 @@
-# Internship Project – Generation and Simulation of Multi-Defect Electric Machines
+# Generation and Simulation of Multi-Defect Electric Machines for the Construction of a Dataset Dedicated to AI-Assisted Fault Diagnosis
 
 ##  Project Overview
 
