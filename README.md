@@ -84,6 +84,7 @@ They must be generated **locally** using the provided scripts and notebooks.
 - Winding and inter-turn short-circuit faults  
 - Coil number (Ntcoil) variations  
 - Magnetic and geometrical sensitivity analyses  
+<img width="409" height="388" alt="image" src="https://github.com/user-attachments/assets/62fcb520-e4dc-4cc1-94a8-6adfeda816a0" />
 
 ---
 
